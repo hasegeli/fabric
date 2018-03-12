@@ -26,7 +26,7 @@ install_requires=['paramiko>=2.0,<3.0', 'six>=1.10.0']
 
 
 setup(
-    name='Fabric3',
+    name='fabric',
     version=get_version('short'),
     description='Fabric is a simple, Pythonic tool for remote execution and deployment (py2.7/py3.4+ compatible fork).',
     long_description=long_description,
