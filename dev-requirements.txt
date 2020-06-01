@@ -9,7 +9,7 @@ nose<2.0
 # Mocking library
 Fudge<1.0
 # Documentation generation
-Sphinx==1.3.4
+Sphinx==3.0.4
 releases>=1.2.0,<2
 invoke>=0.12,<0.13
 invocations>=0.12,<0.13
